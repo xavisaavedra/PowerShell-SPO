@@ -93,12 +93,12 @@ function UploadFileToDrive {
 }
 
 # Configuración
-$siteName = "VideosOdoo"
-$libraryName = "Videos"
-$clientId = "cd3049b2-0c2d-439c-9e07-13feaf596191"
-$clientSecret = "7938Q~p0p5kwzX6gLkraM.K0kT~LeHsEWxsl.cSP"
-$tenantId = "3dd1011a-2b79-47b2-8df9-d6f2146452b7"
-$filePath = "C:\Users\xavis\Documents\GitHub\ACEs\Assets\add-square.png"
+$siteName = "XXXXXXX"
+$libraryName = "XXXXXX"
+$clientId = "XXXXXXXX"
+$clientSecret = "XXXXXXX"
+$tenantId = "XXXXXXXX"
+$filePath = "C:\Assets\add-square.png"
 $fileName = "add-square.png"
 
 # Obtener el token de acceso
