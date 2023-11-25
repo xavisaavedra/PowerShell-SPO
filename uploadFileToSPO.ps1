@@ -73,6 +73,8 @@ function Get-DriveId {
 }
 
 # Función para subir un archivo al drive en SharePoint Online
+# Referencia: https://learn.microsoft.com/en-us/graph/api/driveitem-put-content?view=graph-rest-1.0&tabs=http
+
 function UploadFileToDrive {
     param (
         [string]$DriveId,
