@@ -1,8 +1,8 @@
 function Get-AccessToken {
     param (
-        [string]$ClientId, # ID del cliente para la autenticación
-        [string]$ClientSecret, # Secreto del cliente para la autenticación
-        [string]$TenantId           # ID del Tenant para la autenticación
+        [string]$ClientId,             # ID del cliente para la autenticación
+        [string]$ClientSecret,         # Secreto del cliente para la autenticación
+        [string]$TenantId              # ID del Tenant para la autenticación
     )
 
     $url = 'https://login.microsoftonline.com/' + $TenantId + '/oauth2/v2.0/token'
