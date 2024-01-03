@@ -1,0 +1,16 @@
+FeatureName,FeatureID,Scope
+Hold,9e56487c-795a-4077-9425-54a1ecb84282,Web
+Metadata Navigation and Filtering,7201d6a4-a5d3-49a1-8c19-19c4bac6e668,Web
+SharePoint Viewers,fa6a1bcc-fb4b-446b-8460-f4de5f7411d5,Web
+Minimal Download Strategy,87294c72-f260-42f3-a41b-981a2ffce37a,Web
+Mobile Browser View,d95c97f3-e528-4da2-ae9f-32b3535fbb59,Web
+Search Config Data Site Columns,41dfb393-9eb6-4fe4-af77-28e4afce8cdc,Web
+Search Config Data Content Types,48a243cb-7b16-4b5a-b1b5-07b809b43f47,Web
+In Place Records Management,da2e115b-07e4-49d9-bb2c-35e93bb9fca9,Web
+Reports and Data Search Support,b435069a-e096-46e0-ae30-899daca4b304,Site
+Search Server Web Parts and Templates,9c0834e1-ba47-4d49-812b-7d4fb6fea211,Site
+Site Policy,2fcd5f8a-26b7-4a6a-9755-918566dba90a,Site
+Reporting,7094bd89-2cfe-490a-8c7e-fbace37b4a34,Site
+Aggregated Business Calendar,d438adcc-d809-49ab-8022-f240d5989f3b,Site
+Document ID Service,b50e3104-6812-424f-a011-cc90e6327318,Site
+Document Sets,3bae86a2-776d-499d-9db8-fa4cdc7884f8,Site
