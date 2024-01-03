@@ -1,5 +1,5 @@
 # Establecer la URL del sitio de SharePoint Online
-$siteUrl = "https://zm0j7.sharepoint.com/sites/TestPnPFeatures"
+$siteUrl = "https://MY-SITE.sharepoint.com/sites/TestPnPFeatures"
 
 # Obtener la ruta del archivo CSV que contiene las características de sitio
 $csvPath = "features.csv"
